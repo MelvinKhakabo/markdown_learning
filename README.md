@@ -19,7 +19,7 @@ _this italicizes the text_
 _My name is **MelvinKhakabo** a Data Scientist_
 
 ### Lists
-Unordered lists (-, *,+)
+#### Unordered lists (-, *,+)
 - List 1
    - Nested lists
    - Nested lists
@@ -40,4 +40,8 @@ Unordered lists (-, *,+)
    * Pytorch
 * Javascript
 * HTML
+#### Ordered Lists (USE NUMBERS)
+1. Data Science
+2. Machine Learning
+3. Artificial Intelligence
 
